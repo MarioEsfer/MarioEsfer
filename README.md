@@ -48,6 +48,12 @@ Lógica de selección aleatoria
 
 ---
 
+## 🎓 Certificaciones
+- Introducción a la Algoritmia  
+- Java para Principiantes
+
+---
+
 ## 📊 Estadísticas
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MarioEsfer&show_icons=true"/>
