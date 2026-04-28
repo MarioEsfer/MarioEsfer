@@ -8,7 +8,7 @@
 ---
 
 ## 🚀 Sobre mí
-- 🎓 Egresado de la carrera de Computación e Informática  
+- 🎓 Egresado de la carrera de Computación e Informática en Cibertec
 - 🧠 Trabajo con lógica, bases de datos y APIs  
 
 ---
