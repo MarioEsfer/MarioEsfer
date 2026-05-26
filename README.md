@@ -47,7 +47,7 @@ Sistema de gestión para atención de mascotas en peluquería
 - Lógica de programación orientada a objetos  
 - Manejo de entidades y control de procesos  
 
-👉 https://github.com/MarioEsfer/PROYECTO_PELUQUERIA_CANINA  
+👉 https://github.com/MarioEsfer/proyecto_peluqueria_canina  
 
 ---
 
