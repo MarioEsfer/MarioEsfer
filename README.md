@@ -81,7 +81,8 @@ Aplicación con lógica de selección aleatoria
 
 - Introducción a la Algoritmia (Cibertec)  
 - Java para Principiantes
-- Introduccion a la Base de Datos con Mysql 
+- Introduccion a la Base de Datos con Mysql
+- Java Web con JSP y JPA 
 
 ---
 
